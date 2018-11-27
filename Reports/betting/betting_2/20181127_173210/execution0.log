@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-27T17:32:15</date>
+  <millis>1543311135938</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/betting/betting_2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">betting_2</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/betting/betting_2</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:15</date>
+  <millis>1543311135986</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;janine.bautista - J9&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">janine.bautista - J9</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:15</date>
+  <millis>1543311135988</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 10 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:15</date>
+  <millis>1543311135989</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;172.16.8.107&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">172.16.8.107</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:15</date>
+  <millis>1543311135991</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.8.6.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.8.6.1</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136375</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Betting_5000</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Betting_5000</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Betting_5000</property>
+  <property name="source">C:\\Users\\janine.bautista\\git\\API_UCF88\\Test Cases\\Betting_5000.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136401</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136404</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;player_id&amp;apos; is set to 043ee3ec-087e-4dbf-b529-ab01922eaa9b</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136404</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;bet_amount&amp;apos; is set to 10000</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136405</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;odd_id&amp;apos; is set to 8c34d5a8-a0d1-4ee8-8c0b-e4e5d000ad65</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136405</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;odd_value&amp;apos; is set to 0.95</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136406</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;ipAddr&amp;apos; is set to 172.16.8.119</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136407</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;accept_better_odds&amp;apos; is set to 1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136407</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;username&amp;apos; is set to rusell</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136408</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;matchId&amp;apos; is set to 6eab7ead-ac3b-4bdb-bae6-489d1483158e</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136782</millis>
+  <sequence>15</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136797</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/betting&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-11-27T17:32:16</date>
+  <millis>1543311136921</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking request object</message>
+  <nestedLevel>1</nestedLevel>
+</record>

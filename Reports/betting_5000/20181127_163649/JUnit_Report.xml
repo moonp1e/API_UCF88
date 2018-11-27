@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="betting_5000" time="4" tests="22" failures="0" errors="0">
+   <testsuite name="betting_5000" tests="22" failures="0" errors="0" time="4" timestamp="2018-11-27 16:36:51" hostname="janine.bautista - J9" id="Test Suites/betting_5000">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\janine.bautista\\git\\API_UCF88\\Reports\\betting_5000\\20181127_163649"/>
+         <property name="logFiles" value="C:\\Users\\janine.bautista\\git\\API_UCF88\\Reports\\betting_5000\\20181127_163649\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="janine.bautista - J9"/>
+         <property name="hostAddress" value="172.16.8.107"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+      </properties>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:52 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:52 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:53 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:53 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:53 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:53 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:53 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:53 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:54 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:54 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:55 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:55 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:55 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:56 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:56 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:56 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Betting_5000" classname="Test Cases/Betting_5000" status="PASSED">
+         <system-out><![CDATA[2018-11-27 16:36:56 - [TEST_CASE][PASSED] - Test Cases/Betting_5000: Test Cases/Betting_5000
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)): Send request successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-27 16:36:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-27 16:36:56 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-27 16:36:51 - [TEST_SUITE][PASSED] - betting_5000: Test Cases/Betting_5000]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

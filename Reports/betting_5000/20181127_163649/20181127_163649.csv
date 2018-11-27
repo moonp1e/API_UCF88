@@ -1,0 +1,112 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+betting_5000,,,2018-11-27 16:36:51,2018-11-27 16:36:56,4.929s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:52,2018-11-27 16:36:53,0.818s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:52,2018-11-27 16:36:53,0.390s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.013s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.048s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.204s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.116s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.006s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.015s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.161s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.124s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.003s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.016s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.233s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.208s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.002s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:53,2018-11-27 16:36:53,0.015s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:53,2018-11-27 16:36:54,0.324s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:53,2018-11-27 16:36:54,0.287s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.002s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.026s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.156s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.113s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.026s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.148s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.118s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.018s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.143s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.119s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.013s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.148s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.116s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.018s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.151s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.126s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.015s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.144s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.113s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.004s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:54,2018-11-27 16:36:54,0.019s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:54,2018-11-27 16:36:55,0.144s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.118s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.016s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.158s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.131s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.013s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.139s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.112s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.003s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.014s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.145s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.116s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.003s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.014s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.148s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.123s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.003s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.016s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.151s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.128s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:55,2018-11-27 16:36:55,0.014s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:55,2018-11-27 16:36:56,0.159s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:55,2018-11-27 16:36:56,0.137s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.013s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.139s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.119s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.002s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.012s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.134s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.112s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.013s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.142s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.112s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.002s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.015s,PASSED
+,,,,,,
+Test Cases/Betting_5000,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.150s,PASSED
+Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(betting)),,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.113s,PASSED
+verifyResponseStatusCode,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.001s,PASSED
+verifyElementPropertyValue,,,2018-11-27 16:36:56,2018-11-27 16:36:56,0.026s,PASSED
