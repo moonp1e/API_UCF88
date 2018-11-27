@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>betting</name>
+   <name>betting_wala</name>
    <tag></tag>
-   <elementGuidId>583662fd-df4e-4678-8c7c-01d6a7753aaa</elementGuidId>
+   <elementGuidId>3ccd14b0-cb36-4afb-9e32-4883cde39941</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <httpBody></httpBody>
@@ -23,7 +23,7 @@
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;8c34d5a8-a0d1-4ee8-8c0b-e4e5d000ad65&quot;,
+      &quot;value&quot;: &quot;43b2dd94-ef4c-4124-89a6-75155f98a33c&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {

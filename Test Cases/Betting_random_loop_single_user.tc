@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Betting_5000</name>
+   <name>Betting_random_loop_single_user</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>57e462da-1b63-4ff9-a1ac-129a6cf8fd04</testCaseGuid>

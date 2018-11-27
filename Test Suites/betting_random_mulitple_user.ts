@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>betting_10</name>
+   <name>betting_random_mulitple_user</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,67 +9,67 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>b785310a-93ba-439c-8812-4ce326aa67df</testSuiteGuid>
+   <testSuiteGuid>9e48f9c0-c635-4c7e-acbb-eeea8f98ab92</testSuiteGuid>
    <testCaseLink>
-      <guid>b8b0f425-c9f6-47d9-9287-9f74e164540f</guid>
+      <guid>9beb44f2-eecc-4a4d-b1ab-957d237af5aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Betting_random_loop_single_user</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>6e378df6-fcfa-4ec2-abe6-b53535b74cb5</id>
+         <id>cbc399c1-d368-48ee-a978-9c850f1b47b3</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/betting_10</testDataId>
+         <testDataId>Data Files/betting_1</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>player_id</value>
          <variableId>b8165880-1435-41f5-9698-98bb6bc735d2</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>bet_amount</value>
          <variableId>08d918db-2269-4959-805e-c8908292bf69</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>odd_id</value>
          <variableId>9893be37-3d84-453e-970e-7949a4da6d77</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>odd_value</value>
          <variableId>33103cdd-5e68-452a-96f4-c4936c22c8db</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ipAddr</value>
          <variableId>aab4be1a-66c5-4d8a-853a-52561144b309</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>accept_better_odds</value>
          <variableId>02e0b834-efcb-4a49-9afe-2e9e493f56f6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
          <variableId>00d1fd9b-47ae-4398-a71b-6281819db4c2</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>cbc399c1-d368-48ee-a978-9c850f1b47b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>matchId</value>
          <variableId>b03453a9-1e29-4c99-9a7b-4652e977204e</variableId>
       </variableLink>
    </testCaseLink>

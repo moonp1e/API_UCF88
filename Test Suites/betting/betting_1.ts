@@ -14,7 +14,7 @@
       <guid>e47c6174-1737-4e08-a70b-654d5f45cd1a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Betting_5000</testCaseId>
+      <testCaseId>Test Cases/Betting_random_loop_single_user</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>1140968c-04b1-4b76-a451-f4c2465818ee</id>

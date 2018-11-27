@@ -13,7 +13,29 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-response = WS.sendRequest(findTestObject('betting'))
+
+for (loop = 1; loop <= 500; loop++) {
+response = WS.sendRequest(findTestObject('betting_meron'))
+
+WebUI.delay(2)
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.sendRequest(findTestObject('betting_wala'))
+
+WebUI.delay(2)
+
+WS.verifyResponseStatusCode(response, 200)
+
+WebUI.delay(2)
+
+WS.sendRequest(findTestObject('betting_draw'))
+
+WebUI.delay(2)
+
+WS.verifyResponseStatusCode(response, 200)
+
+WS.sendRequest(findTestObject('betting_ftd'))
 
 WebUI.delay(2)
 
@@ -23,3 +45,4 @@ WebUI.delay(2)
 
 WS.verifyElementPropertyValue(response, 'results.status', 1)
 
+}
