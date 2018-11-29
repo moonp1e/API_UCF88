@@ -18,12 +18,12 @@
     },
     {
       &quot;name&quot;: &quot;bet_amount&quot;,
-      &quot;value&quot;: &quot;100.00&quot;,
+      &quot;value&quot;: &quot;10000.00&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;7f7b732f-4a60-4e4e-95c3-034a00ac0697&quot;,
+      &quot;value&quot;: &quot;bbf545da-6973-4cb6-92b0-671e173bddfb&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjA2NjVhNTc0NDg1ZmJkNGJjMDMyNzY2NjM4ODA4N2NlMzY4MWQ1OGUzYjZlYjk2ZTljOWY0MWRmMmY2MGJjNzJiZmZlZGM3OGNkNzBhMTFhIn0.eyJhdWQiOiIxIiwianRpIjoiMDY2NWE1NzQ0ODVmYmQ0YmMwMzI3NjY2Mzg4MDg3Y2UzNjgxZDU4ZTNiNmViOTZlOWM5ZjQxZGYyZjYwYmM3MmJmZmVkYzc4Y2Q3MGExMWEiLCJpYXQiOjE1NDMzMDQ1NzksIm5iZiI6MTU0MzMwNDU3OSwiZXhwIjoxNTc0ODQwNTc5LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.mv2u0OOlbAal7uG5Dd4kZLuZn-_E21jqF1woBCncit-i6vnLOTerqMlmpD4i_FDzNEgK0LdhnJ8vlihUD1RflbQf0g_6qaD1QPPRhc8FMJqqc7BWixHCk6uGTb_7_fBlaxcMqqhx6ZbR65YpvHRATW_AdCexywy4J2qvxHzUEjGBcPaLkyZ_4jUeQ0KyjYDhTWdxDwVoIpS9Q9h34kqvcJ-1qcnPBTyBzpaj_xwX8zl8MU4vYzu6tTtEKuhy2KcvMy-irdy9HVLDVn5_ZhXpXZ5Ne_pg6uRLHmCzrbEtuvEmjG66YerxjEjOYD1DmTDz6NoiOPeClij8hAp9DjW4ywAWbySL3PTh8zM-8mmYRfs5v60dxAnvMURGJUc5Qv__MIQqUJ30EmIZiQ46cHoOQWQZUvYp-Moba4CM43x_t38j15IYeZZXj7-cYAryRJ9J_fMf3lcqe9NPpar5BwAq-Xdic8MxzT7DDhUdKrKJkfjU0vPABNDOPiKFqCbuxwSQbOjXlN2XpuU5fxj9nz0fdWGj7rNq78myacrwbJv9u_kpAfwbjEUZ3SZkHPsReeAMqSkQKp55Qlc9LQUWw3yy6fKR1fJiZikVHqB7ajS9i4ULGITmhDxs_xx_mEsQ4DBps9oGjRf6SS7LMnNZiuumBLAkYrlgw5RIWLREbNFtIm4</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjgyMGMwZGRkYzdjY2M3MTNhZmMzZGE0NWNkZmYzMWQ5OTZiMTQ0NzA1MDE2NDcyODVhZGM1YmZlMmZkMGNjNjdiZWQ3ZWI3OTE4YzE2NWEyIn0.eyJhdWQiOiIxIiwianRpIjoiODIwYzBkZGRjN2NjYzcxM2FmYzNkYTQ1Y2RmZjMxZDk5NmIxNDQ3MDUwMTY0NzI4NWFkYzViZmUyZmQwY2M2N2JlZDdlYjc5MThjMTY1YTIiLCJpYXQiOjE1NDMzNzU4NjQsIm5iZiI6MTU0MzM3NTg2NCwiZXhwIjoxNTc0OTExODY0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.SAY-ZJtoJNdK14-ic-7JX_72fR-GCsnRMV6HiqU7z3od2UJ17zpRfcfL0XZJIXsXu6UKdw4jXAiO7_k7UtyYc6jnjynUr-nCwJu8g-mqIZ3arRX3b0KBTw26DEVfyYm5GCnh9NMnZj3DHpxFrQfjwaygUuq49ljJdtOK2qQnfKPFjeHM6qF8-nvYU7pVlGJGcyjmi1JkZM1lMYp2pu6nCifszdQZochx1zDI7h7Oawx01c1qpNbS-OlRbr6iIrN2ptLxvy0rBS8kkRsnwhvUSLQ5i9WuB-06_-hSBjsTpcjr0rat_DBk_Fmd22QNpt3ReGFAlHe7XPaBvx4WpeYCu2lmTE_m4A3_d0TfI41aMW2ae7EigCbPEckofQQ9AT6c1Ufr9fVU4-o1XX8KpmKdEU_dTA5oQYhAZhCdQFPP5FY-_adWbjTmkMOE-n2rm8D0vBe6v0Ko62xtweyvRE8qfaKAVcNB6Se2-twIneyMwpu074lqBTUb9TuBm4Vh8YJsXwdkfkDckMKkdiyhqB-Zrjc9W74fg0vQPfVsHidJ3Vis_PEDVC8Ee0jy9vFlM6J5APCsZfsghmDyUsA6Tp8p1zF1NRw78xRi393ViDiO40JDv58i_ZJJnmOlsgDmkMVW2kRkGv0niUX9yCMtX93BzESMThJSjlcjp_EPbqvZvII</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>

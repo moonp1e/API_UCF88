@@ -18,12 +18,12 @@
     },
     {
       &quot;name&quot;: &quot;bet_amount&quot;,
-      &quot;value&quot;: &quot;100.00&quot;,
+      &quot;value&quot;: &quot;1000.00&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;ad8e6489-bb7e-460a-ad2c-40c2fc2a3abd&quot;,
+      &quot;value&quot;: &quot;30af47c7-1572-4127-b6d8-487204bb0928&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -45,11 +45,6 @@
       &quot;name&quot;: &quot;username&quot;,
       &quot;value&quot;: &quot;janine&quot;,
       &quot;type&quot;: &quot;Text&quot;
-    },
-    {
-      &quot;name&quot;: &quot;matchId&quot;,
-      &quot;value&quot;: &quot;6eab7ead-ac3b-4bdb-bae6-489d1483158e&quot;,
-      &quot;type&quot;: &quot;Text&quot;
     }
   ]
 }</httpBodyContent>
@@ -66,7 +61,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjBiOTUwMzBmZjRkZDFmMzRjYTQ5NmY2MzI0MDQ2NGIwNzNmNjRlMmZiMzg4ZGZiOTUxOWIwMjBlMGU2YWEwMWFkM2ZjNWViYzY0NGM5OGRlIn0.eyJhdWQiOiIxIiwianRpIjoiMGI5NTAzMGZmNGRkMWYzNGNhNDk2ZjYzMjQwNDY0YjA3M2Y2NGUyZmIzODhkZmI5NTE5YjAyMGUwZTZhYTAxYWQzZmM1ZWJjNjQ0Yzk4ZGUiLCJpYXQiOjE1NDMzMTU4OTEsIm5iZiI6MTU0MzMxNTg5MSwiZXhwIjoxNTc0ODUxODkxLCJzdWIiOiIiLCJzY29wZXMiOltdfQ.qkEYOok7N7ZIMuD7_Wc-nZWAyDeJ7HlrXIJ8ZMxVfmvHBnJwKHwUde40103m6Rw6JNpTixG-9dIZjWY73G4Ak2AcsvkKuQgL1TXoI81Tb_HuKeT8ZDIULi85xFBc-MJzDDHkcJ2XKVTP9V835RpA9159E4T8uJI5lADwLcXVscG0XZ73UDABu_8BzOMly1q3HCxXJgR2Pglu8IoM9JUwgApNzpS9hj3X222-yDfRz5WcPumJ5fjQd56wH40RRjVKdu6uzWSAr9ZtVLKaZtJ8mZMtizND9PjGuMWG87MWOtKzQ87ayKaaXjx1LUkIOXlxnVmQGkGLDmJ1N72mSMlFgFmLBSECRrMYp7elHB9c3uPxlpu8GrJNu8NyOGdPFgk_ZblkAWGiTNrezF5IgCTeDqWQ0vwNVDFYI8BA6pngietHkrVjZs8OQsYM9FrrUIFaDaGlebqihcj8o3eJvY4XNbo5jhW8Efv1Lp-mJXKymphEjb1-GB45EFgVftye3gQiNOkZMe73gaIF_afupNj07-PZ8mW1BU8VJgc3VkDWg4nAs2L0S-lDcyyNa5p8PU-JnnywcUmWdXj2ucnQegWihp853LccU_W51uxswgk0-nOq9BQI1YcnaHnYXsJFubZ2P0yfIHRdGWbKDMdSF6_XFCPoPSi_UmYh6DbzAsYEDlk</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjgyMGMwZGRkYzdjY2M3MTNhZmMzZGE0NWNkZmYzMWQ5OTZiMTQ0NzA1MDE2NDcyODVhZGM1YmZlMmZkMGNjNjdiZWQ3ZWI3OTE4YzE2NWEyIn0.eyJhdWQiOiIxIiwianRpIjoiODIwYzBkZGRjN2NjYzcxM2FmYzNkYTQ1Y2RmZjMxZDk5NmIxNDQ3MDUwMTY0NzI4NWFkYzViZmUyZmQwY2M2N2JlZDdlYjc5MThjMTY1YTIiLCJpYXQiOjE1NDMzNzU4NjQsIm5iZiI6MTU0MzM3NTg2NCwiZXhwIjoxNTc0OTExODY0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.SAY-ZJtoJNdK14-ic-7JX_72fR-GCsnRMV6HiqU7z3od2UJ17zpRfcfL0XZJIXsXu6UKdw4jXAiO7_k7UtyYc6jnjynUr-nCwJu8g-mqIZ3arRX3b0KBTw26DEVfyYm5GCnh9NMnZj3DHpxFrQfjwaygUuq49ljJdtOK2qQnfKPFjeHM6qF8-nvYU7pVlGJGcyjmi1JkZM1lMYp2pu6nCifszdQZochx1zDI7h7Oawx01c1qpNbS-OlRbr6iIrN2ptLxvy0rBS8kkRsnwhvUSLQ5i9WuB-06_-hSBjsTpcjr0rat_DBk_Fmd22QNpt3ReGFAlHe7XPaBvx4WpeYCu2lmTE_m4A3_d0TfI41aMW2ae7EigCbPEckofQQ9AT6c1Ufr9fVU4-o1XX8KpmKdEU_dTA5oQYhAZhCdQFPP5FY-_adWbjTmkMOE-n2rm8D0vBe6v0Ko62xtweyvRE8qfaKAVcNB6Se2-twIneyMwpu074lqBTUb9TuBm4Vh8YJsXwdkfkDckMKkdiyhqB-Zrjc9W74fg0vQPfVsHidJ3Vis_PEDVC8Ee0jy9vFlM6J5APCsZfsghmDyUsA6Tp8p1zF1NRw78xRi393ViDiO40JDv58i_ZJJnmOlsgDmkMVW2kRkGv0niUX9yCMtX93BzESMThJSjlcjp_EPbqvZvII</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>

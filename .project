@@ -15,6 +15,38 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-2573890849057785625.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-2573890849057785625.groovy</location>
+		</link>
+		<link>
+			<name>kat-4773372898597814574.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-4773372898597814574.groovy</location>
+		</link>
+		<link>
+			<name>kat-5036789811728157460.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-5036789811728157460.groovy</location>
+		</link>
+		<link>
+			<name>kat-6326358748278089341.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-6326358748278089341.groovy</location>
+		</link>
+		<link>
+			<name>kat-694927812405332628.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-694927812405332628.groovy</location>
+		</link>
+		<link>
+			<name>kat-7589929342874564573.groovy</name>
+			<type>1</type>
+			<location>C:/Users/JANINE~1.BAU/AppData/Local/Temp/Katalon/Web Services/kat-7589929342874564573.groovy</location>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1543303697178</id>
@@ -45,6 +77,24 @@
 		</filter>
 		<filter>
 			<id>1543315772913</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543457992494</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543457992509</id>
 			<name></name>
 			<type>6</type>
 			<matcher>

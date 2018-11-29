@@ -38,7 +38,7 @@
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dev-api.ucf88.com/oauth/token</restUrl>
+   <restUrl>http://dev-api.ucf88.com/oauth/token?</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
