@@ -18,17 +18,17 @@
     },
     {
       &quot;name&quot;: &quot;bet_amount&quot;,
-      &quot;value&quot;: &quot;3000.00&quot;,
+      &quot;value&quot;: &quot;10000&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;8445e301-3a65-4e5e-92af-de14b9ce30c7&quot;,
+      &quot;value&quot;: &quot;e601e502-8415-4109-9c20-ca75be66f73b&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_value&quot;,
-      &quot;value&quot;: &quot;0.95&quot;,
+      &quot;value&quot;: &quot;-0.85&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       &quot;name&quot;: &quot;accept_better_odds&quot;,
-      &quot;value&quot;: &quot;1&quot;,
+      &quot;value&quot;: &quot;0&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjgyMGMwZGRkYzdjY2M3MTNhZmMzZGE0NWNkZmYzMWQ5OTZiMTQ0NzA1MDE2NDcyODVhZGM1YmZlMmZkMGNjNjdiZWQ3ZWI3OTE4YzE2NWEyIn0.eyJhdWQiOiIxIiwianRpIjoiODIwYzBkZGRjN2NjYzcxM2FmYzNkYTQ1Y2RmZjMxZDk5NmIxNDQ3MDUwMTY0NzI4NWFkYzViZmUyZmQwY2M2N2JlZDdlYjc5MThjMTY1YTIiLCJpYXQiOjE1NDMzNzU4NjQsIm5iZiI6MTU0MzM3NTg2NCwiZXhwIjoxNTc0OTExODY0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.SAY-ZJtoJNdK14-ic-7JX_72fR-GCsnRMV6HiqU7z3od2UJ17zpRfcfL0XZJIXsXu6UKdw4jXAiO7_k7UtyYc6jnjynUr-nCwJu8g-mqIZ3arRX3b0KBTw26DEVfyYm5GCnh9NMnZj3DHpxFrQfjwaygUuq49ljJdtOK2qQnfKPFjeHM6qF8-nvYU7pVlGJGcyjmi1JkZM1lMYp2pu6nCifszdQZochx1zDI7h7Oawx01c1qpNbS-OlRbr6iIrN2ptLxvy0rBS8kkRsnwhvUSLQ5i9WuB-06_-hSBjsTpcjr0rat_DBk_Fmd22QNpt3ReGFAlHe7XPaBvx4WpeYCu2lmTE_m4A3_d0TfI41aMW2ae7EigCbPEckofQQ9AT6c1Ufr9fVU4-o1XX8KpmKdEU_dTA5oQYhAZhCdQFPP5FY-_adWbjTmkMOE-n2rm8D0vBe6v0Ko62xtweyvRE8qfaKAVcNB6Se2-twIneyMwpu074lqBTUb9TuBm4Vh8YJsXwdkfkDckMKkdiyhqB-Zrjc9W74fg0vQPfVsHidJ3Vis_PEDVC8Ee0jy9vFlM6J5APCsZfsghmDyUsA6Tp8p1zF1NRw78xRi393ViDiO40JDv58i_ZJJnmOlsgDmkMVW2kRkGv0niUX9yCMtX93BzESMThJSjlcjp_EPbqvZvII</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjhhOGRlYTY3ZDY1NDcwZmJhYTM3MmM1YTk0MDJhOWQ4ODI1M2VjMzczMjM1ZGFjOTI3MmRmNDkzMzllYWU1YTU4MDExZDI0NzZmZGE2YTNhIn0.eyJhdWQiOiIxIiwianRpIjoiOGE4ZGVhNjdkNjU0NzBmYmFhMzcyYzVhOTQwMmE5ZDg4MjUzZWMzNzMyMzVkYWM5MjcyZGY0OTMzOWVhZTVhNTgwMTFkMjQ3NmZkYTZhM2EiLCJpYXQiOjE1NDM4MTcwODQsIm5iZiI6MTU0MzgxNzA4NCwiZXhwIjoxNTc1MzUzMDg0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.mj1R4hKDUJPbJ5VDmROpaO5ncEd-E8KwyfeCWVqcbPHLyyXs56gAxLowU_tAp55Hz1x5ci8zkQQZMQ64bZ3nKhiK1G9JFhlGHGQsFH8h6OFWyzTbUCrtC6rEqzE6132RxI3th7ZzqT9cOx0fgXbl-fwKu2dKFOnb8UeM_EElCkV60JmRNmYju5ZlezLxVUKirZVsnoO6cnEMGTLZNnFTb7mo26CQUSZgNto6XUKIomjZhx3aVhZolU5AMD7ehhw3HvkMJ9A9Ew6H1Pq21pkWy3IpgAW07oPDJIMLX3k1_-iuRjKt6jskdohAo6axHDqqQmtoEnELD05Zu_ghtjQqfS8bf3UjhwfgvXUZyiJsyr6WQZPGsOeMSx6tnyCMbSsKYU229zSgwqBglbBPdp1s7-u_8tldqkwLuESrV7wM0r1COixm0QwYuBfb2k9zirUyFLmte0FBZmySAkmpDePg4kF_Nu2f2BXmUDfxdzKrDwwVYG4QvpY629LntjKzom5HFtrsgUzz7sRne3-k0SdJXPaGd_HCH9eHhhHCrUwAGBQpYbZ4SUdv-lLvlnKldERctGtD2U9XH4MVtHnMIxjwnQGocnKRW-QUMo73l4OeeIhh1Ebscto1qA1LcDxB110cJP81-qCy2dUlZDJek6llZPOavAzTwNnLvOIHKEy5XYc</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>

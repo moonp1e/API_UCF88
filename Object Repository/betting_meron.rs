@@ -18,12 +18,12 @@
     },
     {
       &quot;name&quot;: &quot;bet_amount&quot;,
-      &quot;value&quot;: &quot;1000.00&quot;,
+      &quot;value&quot;: &quot;100&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;30af47c7-1572-4127-b6d8-487204bb0928&quot;,
+      &quot;value&quot;: &quot;6bb68872-d7b2-4344-8a84-7261b7981e43&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       &quot;name&quot;: &quot;accept_better_odds&quot;,
-      &quot;value&quot;: &quot;1&quot;,
+      &quot;value&quot;: &quot;0&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -61,7 +61,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjgyMGMwZGRkYzdjY2M3MTNhZmMzZGE0NWNkZmYzMWQ5OTZiMTQ0NzA1MDE2NDcyODVhZGM1YmZlMmZkMGNjNjdiZWQ3ZWI3OTE4YzE2NWEyIn0.eyJhdWQiOiIxIiwianRpIjoiODIwYzBkZGRjN2NjYzcxM2FmYzNkYTQ1Y2RmZjMxZDk5NmIxNDQ3MDUwMTY0NzI4NWFkYzViZmUyZmQwY2M2N2JlZDdlYjc5MThjMTY1YTIiLCJpYXQiOjE1NDMzNzU4NjQsIm5iZiI6MTU0MzM3NTg2NCwiZXhwIjoxNTc0OTExODY0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.SAY-ZJtoJNdK14-ic-7JX_72fR-GCsnRMV6HiqU7z3od2UJ17zpRfcfL0XZJIXsXu6UKdw4jXAiO7_k7UtyYc6jnjynUr-nCwJu8g-mqIZ3arRX3b0KBTw26DEVfyYm5GCnh9NMnZj3DHpxFrQfjwaygUuq49ljJdtOK2qQnfKPFjeHM6qF8-nvYU7pVlGJGcyjmi1JkZM1lMYp2pu6nCifszdQZochx1zDI7h7Oawx01c1qpNbS-OlRbr6iIrN2ptLxvy0rBS8kkRsnwhvUSLQ5i9WuB-06_-hSBjsTpcjr0rat_DBk_Fmd22QNpt3ReGFAlHe7XPaBvx4WpeYCu2lmTE_m4A3_d0TfI41aMW2ae7EigCbPEckofQQ9AT6c1Ufr9fVU4-o1XX8KpmKdEU_dTA5oQYhAZhCdQFPP5FY-_adWbjTmkMOE-n2rm8D0vBe6v0Ko62xtweyvRE8qfaKAVcNB6Se2-twIneyMwpu074lqBTUb9TuBm4Vh8YJsXwdkfkDckMKkdiyhqB-Zrjc9W74fg0vQPfVsHidJ3Vis_PEDVC8Ee0jy9vFlM6J5APCsZfsghmDyUsA6Tp8p1zF1NRw78xRi393ViDiO40JDv58i_ZJJnmOlsgDmkMVW2kRkGv0niUX9yCMtX93BzESMThJSjlcjp_EPbqvZvII</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjczZGE4M2E2YmI2YjE3ZWNmYzJlZDY1ZWUzNGY1ZTE2NWI4YjE1YTdkZmE3YjI0NTJjNDJmZjdiZjA4NGY1NDc3N2Q5Mzc0ZDBiYjZkOWJmIn0.eyJhdWQiOiIxIiwianRpIjoiNzNkYTgzYTZiYjZiMTdlY2ZjMmVkNjVlZTM0ZjVlMTY1YjhiMTVhN2RmYTdiMjQ1MmM0MmZmN2JmMDg0ZjU0Nzc3ZDkzNzRkMGJiNmQ5YmYiLCJpYXQiOjE1NDM4MTg5OTgsIm5iZiI6MTU0MzgxODk5OCwiZXhwIjoxNTc1MzU0OTk4LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.r42lQjioA-SKYxFuAJ0IFSH8rsgJ_A__maqqufosOnExkJuUmaDZZ6QvYfdn4i7lOkeVs7DrWXtFsLWKaE8GVNMP9iTFFkHgc2FVZE_1dqzwKB9kpyyUh5H9TUujpBj4O8qC3Hkiyy-pVukvQKffiZePLrE63GceOZymiqK9s_OD8htF6rGSxE_m1TBQk-ijUIi6H1fSu-5iZnsbOvSnvPzZH2ueM3DHGn_Ltxjah3f9nkfOuS1WLZJ0qvBo15cQu-EusOr6rMeaYwWWcEn3Pg0OkKAihlhjwNY_MdXZpFPvrOJRa7LAbgwzdfQXtVR3V9gJm5jcJRnpWbCiIy_hz0p04OGdOtj36FEP0jqKrm_cFf3MCPe-TgoqQJSY_PYlnJZ3Izhtoqq2411-rVXvTk4_gJycJ_8edrVGd6EdX8ybSJrvGaC-tWG25lv6GkJUQygwFnOAP65HbFtLhnj5N9QmeQucZ4I2y-71ED2CnRzg2xGJJghi8jirXjuOycdHyulHmtqTi1Nqp92pEwP_f1_RyosJnT754FsMDbFDfw8bj5PAj7uN14FirWIfvRR6RvybXL_vmMpMjBxAzljKkyIA_LURi6qSnLz7Cq9nsMveerDuKxA3LchdIIDRNpBe-ER1sGMoy_znkAszQ2oY1ZxnCZ523-jV4Q9B8HtwvyY</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
