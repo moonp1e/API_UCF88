@@ -27,13 +27,13 @@ WebUI.setText(findTestObject('registerUser/signUp_email'), signUp_email)
 
 WebUI.setText(findTestObject('registerUser/signUp_name'), signUp_name)
 
-WebUI.delay(3)
-
-WebUI.setText(findTestObject('registerUser/input_password'), signUp_password)
-
-WebUI.delay(3)
+WebUI.setText(findTestObject('registerUser/signUp_password'), signUp_password)
 
 WebUI.click(findTestObject('registerUser/button_signUp'))
+
+WebUI.delay(5)
+
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('registerUser/input_username'), input_username)
 
