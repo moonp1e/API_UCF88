@@ -13,7 +13,7 @@
   &quot;parameters&quot;: [
     {
       &quot;name&quot;: &quot;player_id&quot;,
-      &quot;value&quot;: &quot;e6cb7c38-47f4-46ec-aeab-7468f3a084b2&quot;,
+      &quot;value&quot;: &quot;b56f57a2-6fc8-4fe8-b7c7-de4179ee2074&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;82990c47-2040-4a9b-a90e-919862e03f20&quot;,
+      &quot;value&quot;: &quot;2a4a4f81-6f05-4747-9a4b-918c53d7f24a&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjU4YjE0YThlYTY3OTc5YjI4NDE4Y2RhNzdkNDE1YmQ3ZGMwYmYxYzRlNzFkMWE5YjQ5YmFiYTg2MDQ5ZDcxYjA3NjliZTc3MjY3OWJkMDI3In0.eyJhdWQiOiIxIiwianRpIjoiNThiMTRhOGVhNjc5NzliMjg0MThjZGE3N2Q0MTViZDdkYzBiZjFjNGU3MWQxYTliNDliYWJhODYwNDlkNzFiMDc2OWJlNzcyNjc5YmQwMjciLCJpYXQiOjE1NDM0NTk1OTgsIm5iZiI6MTU0MzQ1OTU5OCwiZXhwIjoxNTc0OTk1NTk4LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.jz_VAKN4zeY_BXP-THCITKKrcnshGyCP2N5QNPASvGYnCaqzMm5ZYAgRbJEGTTRzaee66frw32nHXaLds0WEWEm7DP4cF8qVK9WyBprF1l1Di-JLPVCofXepOaE50xggmeKkrqJKQCyzZb4NKKypP1O2uf4wUpYKcxX-eNiPFveJEo4xhnLyXdS_3SFzDrZeUN7qt129dHL3qqfqkRu3KC5Ps4FBSn8TUJAbOaPzItR6UVzKbOabyYQ2uzMAnj2-tEJ1Yh2Yb1Kw-fXls4VkOSpyQfjwGe9kr5Nb4h_2Xe5Skcp7wEIjotQAyM2iXisf3r2XYLE6vIvyvZP4_SMqh37ETKKSVQRfgvp9oA-fwSnM-CrK_ztbSr7HGFOg8V_mi_N0uJMFiB3AOY8TpcWYyiCN5F3qaX1ch0w7YKHMi_hiEGV9huPK9KunoyxGyI2rH0AbfQFpB5vianLNdR8fvj_T6X3XB1CwpZ1MtpdZ3lk1wwMznpnGGqlclGsmiwqI-0F6ZmgAHs82sVvox1Q0VnqZkZu1vptESX_RDZ9Q-3Z0ZRbQblxJ3GSmx9N-fvlDh6a8tZ9O8nUfAz2dtN_TbRkVhvVt2REmzbzvkp1t0EMkG0n6EnROyuTv2c7-Zqf2mhXIbl4y0NRKrIidY5_vx1CdaGLvzeFMEk4tLEVuDuQ</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjZlNGY5NDAwOGIwYTZjNWUwN2Q3MzFjNWI2MmZjMmQwNGJkZjZkMzg3NThhMzQ3ZTc5YWZmOTgxNzM3ODYxYWYzNmFkNjE2MTQ2MDI2N2Y3In0.eyJhdWQiOiIxIiwianRpIjoiNmU0Zjk0MDA4YjBhNmM1ZTA3ZDczMWM1YjYyZmMyZDA0YmRmNmQzODc1OGEzNDdlNzlhZmY5ODE3Mzc4NjFhZjM2YWQ2MTYxNDYwMjY3ZjciLCJpYXQiOjE1NDQxNTQzMDQsIm5iZiI6MTU0NDE1NDMwNCwiZXhwIjoxNTc1NjkwMzA0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.Wr8tqbnu_5rgttw7Z_voPrEmYqfLBCTaULeky0z-VgZxttMGevlKZrTvY0Cg-FPOdKTL-sew_46y_k-bff810tDmoaRc6jzIUr_wun2Je5wlj6DKR7sylxe7kNhKTHwnygAnPDb-bTrTkA4QeWe-4TujqiuuWCY8NPKfLJTHvphDbyksZSgQg0iPggNxrpwZvZ0EAfZ7e79iLYlUarcZ7tFozHNePbOInqRvj5xo0Udkhexjgkvvj8NG-9HZw7x5Zb-LWGJrL5k8QTKXTDEX49mHBz9ONJIouu0WAQ28mDOFvYmx9cWCK8pIFcTlccdnUGCe3SR_28Rpzgib7nIAy8WWOTQz6KnLxgjCc6eCoVp89k6aA5ik05spMdEY2oKM3deW0iOxRlrGwDsyCBCnbvI6TmxN7RRy_vYnh1118XouX1y2nGfJ9hQL3YcKyg9eGYILjuIkl_W23qKrFXdN9r6GglO702MW8PFrH6F-VvkZNqD-suY8XNU4B_-4NTi5N9s_HXNW2wj-WLU5aEkvy7GZhTMc6Oki_4bVSVK5bKG_bbvlmlZ3YSNykE16ifhMDsEO98BG4kU54jJPgbgQgoDcbuDe0adkEtWGIHbMk_ShKqzH9LgveejKiVLu5_iaYZtFyotqQIDlhL7v0IjBkUImJSih3EUdSoJLFAnSBr4</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -87,11 +87,11 @@
       <matchCondition>equals</matchCondition>
       <name>player-id</name>
       <type>Main</type>
-      <value>e6cb7c38-47f4-46ec-aeab-7468f3a084b2</value>
+      <value>b56f57a2-6fc8-4fe8-b7c7-de4179ee2074</value>
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dev-api.ucf88.com/api/submitBet?=</restUrl>
+   <restUrl>http://staging-api.ucf88.com/api/submitBet?</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

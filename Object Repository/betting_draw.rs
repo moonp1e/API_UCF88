@@ -13,17 +13,17 @@
   &quot;parameters&quot;: [
     {
       &quot;name&quot;: &quot;player_id&quot;,
-      &quot;value&quot;: &quot;e6cb7c38-47f4-46ec-aeab-7468f3a084b2&quot;,
+      &quot;value&quot;: &quot;ba9c7784-772b-4029-bedc-ea8da079f3ac&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;bet_amount&quot;,
-      &quot;value&quot;: &quot;10000.00&quot;,
+      &quot;value&quot;: &quot;1000&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;a8281241-fdbc-4b23-8ddf-88957e0af8af&quot;,
+      &quot;value&quot;: &quot;97f93860-642a-45eb-9b77-df8adc8fb6a5&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -43,12 +43,17 @@
     },
     {
       &quot;name&quot;: &quot;username&quot;,
-      &quot;value&quot;: &quot;janine&quot;,
+      &quot;value&quot;: &quot;test&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
       &quot;name&quot;: &quot;matchId&quot;,
-      &quot;value&quot;: &quot;6eab7ead-ac3b-4bdb-bae6-489d1483158e&quot;,
+      &quot;value&quot;: &quot;04f73d7f-cab2-4ff2-a3f5-3eff3efaa638&quot;,
+      &quot;type&quot;: &quot;Text&quot;
+    },
+    {
+      &quot;name&quot;: &quot;player_id&quot;,
+      &quot;value&quot;: &quot;ba9c7784-772b-4029-bedc-ea8da079f3ac&quot;,
       &quot;type&quot;: &quot;Text&quot;
     }
   ]
@@ -66,7 +71,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjU4YjE0YThlYTY3OTc5YjI4NDE4Y2RhNzdkNDE1YmQ3ZGMwYmYxYzRlNzFkMWE5YjQ5YmFiYTg2MDQ5ZDcxYjA3NjliZTc3MjY3OWJkMDI3In0.eyJhdWQiOiIxIiwianRpIjoiNThiMTRhOGVhNjc5NzliMjg0MThjZGE3N2Q0MTViZDdkYzBiZjFjNGU3MWQxYTliNDliYWJhODYwNDlkNzFiMDc2OWJlNzcyNjc5YmQwMjciLCJpYXQiOjE1NDM0NTk1OTgsIm5iZiI6MTU0MzQ1OTU5OCwiZXhwIjoxNTc0OTk1NTk4LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.jz_VAKN4zeY_BXP-THCITKKrcnshGyCP2N5QNPASvGYnCaqzMm5ZYAgRbJEGTTRzaee66frw32nHXaLds0WEWEm7DP4cF8qVK9WyBprF1l1Di-JLPVCofXepOaE50xggmeKkrqJKQCyzZb4NKKypP1O2uf4wUpYKcxX-eNiPFveJEo4xhnLyXdS_3SFzDrZeUN7qt129dHL3qqfqkRu3KC5Ps4FBSn8TUJAbOaPzItR6UVzKbOabyYQ2uzMAnj2-tEJ1Yh2Yb1Kw-fXls4VkOSpyQfjwGe9kr5Nb4h_2Xe5Skcp7wEIjotQAyM2iXisf3r2XYLE6vIvyvZP4_SMqh37ETKKSVQRfgvp9oA-fwSnM-CrK_ztbSr7HGFOg8V_mi_N0uJMFiB3AOY8TpcWYyiCN5F3qaX1ch0w7YKHMi_hiEGV9huPK9KunoyxGyI2rH0AbfQFpB5vianLNdR8fvj_T6X3XB1CwpZ1MtpdZ3lk1wwMznpnGGqlclGsmiwqI-0F6ZmgAHs82sVvox1Q0VnqZkZu1vptESX_RDZ9Q-3Z0ZRbQblxJ3GSmx9N-fvlDh6a8tZ9O8nUfAz2dtN_TbRkVhvVt2REmzbzvkp1t0EMkG0n6EnROyuTv2c7-Zqf2mhXIbl4y0NRKrIidY5_vx1CdaGLvzeFMEk4tLEVuDuQ</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjA4NjQ2OTBmZjA0ZmE3NDhhOTY3MTdjZjYxOTc2OTcyNDI5Y2FmMTkyYjcxNzk1OTJmMzJlZjQyOTE0Y2U2MDBhYzAwNDI2NjYzOGVkN2I3In0.eyJhdWQiOiIxIiwianRpIjoiMDg2NDY5MGZmMDRmYTc0OGE5NjcxN2NmNjE5NzY5NzI0MjljYWYxOTJiNzE3OTU5MmYzMmVmNDI5MTRjZTYwMGFjMDA0MjY2NjM4ZWQ3YjciLCJpYXQiOjE1NDU3OTg2MDEsIm5iZiI6MTU0NTc5ODYwMSwiZXhwIjoxNTc3MzM0NjAxLCJzdWIiOiIiLCJzY29wZXMiOltdfQ.dHQ-S_l-ogP-BenRUne-GspJVfgXQBHhaV7622pNLLJDahi5AgKMMv6rNx2b3s7CIqFxS0X6CZcDFXGM4h1F2K1onDcvqBb5ZitRNI_Qpu61ea6TgsahU3iLOVbgmzNPiyrrwHwxx81ocrbKhM5Od1uqTsWGcwbUJHT-6BTbkxiFmLbDGw1VBtgL4CcWzejaW9P3OhzMths41gsU-x7Hu7ij_axdj9zhYFBeDi80tuBTjPRiJZfw8_jpcT95gc5yzHzsRNf-7rUNvM7t6NM_D3byC6g8eMxSf_qneqLNeFjvfglfn4LPnXLQeOqa5ivNBBOs1hd_CwyzXy_yfm_oNX4gHbvOVAK12YUgoWyiv0fdr9CNbs4Efy5kgBOpLjqsJpCru9Sxh5rTeB3rSDejOPkAtPxfLJp90PNip2bA9Q47iQOqH_auoNw2p30wG88CGal-QI0SLaoH1Q_djHfB9ezpbZ4PpfEImkPskZT3k18XNNE7hoMC55se3psNHanI_wGFpQh-mYnn-R3Mt7XL0jGmJOvNoh8GFqG9fs3PK4vKXL80HWMxTKYBuD_0ktkox2mjp-AovFwOzOE9JrnZtE3LwwSG0cyU6KAgKEDXC0Q4oAPkpVm3Mg8J6spMs9S4pjGOayJLAR1ycpx7P5n6FRtmaflJbvSyyFSeH9Ojygw</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -87,11 +92,11 @@
       <matchCondition>equals</matchCondition>
       <name>player-id</name>
       <type>Main</type>
-      <value>e6cb7c38-47f4-46ec-aeab-7468f3a084b2</value>
+      <value>4fe385f7-bd03-46b0-9176-3c871396150d</value>
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dev-api.ucf88.com/api/submitBet?=</restUrl>
+   <restUrl>http://dev-api.ucf88.com/api/submitBet?</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

@@ -13,7 +13,7 @@
   &quot;parameters&quot;: [
     {
       &quot;name&quot;: &quot;player_id&quot;,
-      &quot;value&quot;: &quot;e6cb7c38-47f4-46ec-aeab-7468f3a084b2&quot;,
+      &quot;value&quot;: &quot;b56f57a2-6fc8-4fe8-b7c7-de4179ee2074&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       &quot;name&quot;: &quot;odd_id&quot;,
-      &quot;value&quot;: &quot;e601e502-8415-4109-9c20-ca75be66f73b&quot;,
+      &quot;value&quot;: &quot;c608f914-a487-4059-857f-4f381597aeff&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       &quot;name&quot;: &quot;accept_better_odds&quot;,
-      &quot;value&quot;: &quot;0&quot;,
+      &quot;value&quot;: &quot;1&quot;,
       &quot;type&quot;: &quot;Text&quot;
     },
     {
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjhhOGRlYTY3ZDY1NDcwZmJhYTM3MmM1YTk0MDJhOWQ4ODI1M2VjMzczMjM1ZGFjOTI3MmRmNDkzMzllYWU1YTU4MDExZDI0NzZmZGE2YTNhIn0.eyJhdWQiOiIxIiwianRpIjoiOGE4ZGVhNjdkNjU0NzBmYmFhMzcyYzVhOTQwMmE5ZDg4MjUzZWMzNzMyMzVkYWM5MjcyZGY0OTMzOWVhZTVhNTgwMTFkMjQ3NmZkYTZhM2EiLCJpYXQiOjE1NDM4MTcwODQsIm5iZiI6MTU0MzgxNzA4NCwiZXhwIjoxNTc1MzUzMDg0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.mj1R4hKDUJPbJ5VDmROpaO5ncEd-E8KwyfeCWVqcbPHLyyXs56gAxLowU_tAp55Hz1x5ci8zkQQZMQ64bZ3nKhiK1G9JFhlGHGQsFH8h6OFWyzTbUCrtC6rEqzE6132RxI3th7ZzqT9cOx0fgXbl-fwKu2dKFOnb8UeM_EElCkV60JmRNmYju5ZlezLxVUKirZVsnoO6cnEMGTLZNnFTb7mo26CQUSZgNto6XUKIomjZhx3aVhZolU5AMD7ehhw3HvkMJ9A9Ew6H1Pq21pkWy3IpgAW07oPDJIMLX3k1_-iuRjKt6jskdohAo6axHDqqQmtoEnELD05Zu_ghtjQqfS8bf3UjhwfgvXUZyiJsyr6WQZPGsOeMSx6tnyCMbSsKYU229zSgwqBglbBPdp1s7-u_8tldqkwLuESrV7wM0r1COixm0QwYuBfb2k9zirUyFLmte0FBZmySAkmpDePg4kF_Nu2f2BXmUDfxdzKrDwwVYG4QvpY629LntjKzom5HFtrsgUzz7sRne3-k0SdJXPaGd_HCH9eHhhHCrUwAGBQpYbZ4SUdv-lLvlnKldERctGtD2U9XH4MVtHnMIxjwnQGocnKRW-QUMo73l4OeeIhh1Ebscto1qA1LcDxB110cJP81-qCy2dUlZDJek6llZPOavAzTwNnLvOIHKEy5XYc</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjZlNGY5NDAwOGIwYTZjNWUwN2Q3MzFjNWI2MmZjMmQwNGJkZjZkMzg3NThhMzQ3ZTc5YWZmOTgxNzM3ODYxYWYzNmFkNjE2MTQ2MDI2N2Y3In0.eyJhdWQiOiIxIiwianRpIjoiNmU0Zjk0MDA4YjBhNmM1ZTA3ZDczMWM1YjYyZmMyZDA0YmRmNmQzODc1OGEzNDdlNzlhZmY5ODE3Mzc4NjFhZjM2YWQ2MTYxNDYwMjY3ZjciLCJpYXQiOjE1NDQxNTQzMDQsIm5iZiI6MTU0NDE1NDMwNCwiZXhwIjoxNTc1NjkwMzA0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.Wr8tqbnu_5rgttw7Z_voPrEmYqfLBCTaULeky0z-VgZxttMGevlKZrTvY0Cg-FPOdKTL-sew_46y_k-bff810tDmoaRc6jzIUr_wun2Je5wlj6DKR7sylxe7kNhKTHwnygAnPDb-bTrTkA4QeWe-4TujqiuuWCY8NPKfLJTHvphDbyksZSgQg0iPggNxrpwZvZ0EAfZ7e79iLYlUarcZ7tFozHNePbOInqRvj5xo0Udkhexjgkvvj8NG-9HZw7x5Zb-LWGJrL5k8QTKXTDEX49mHBz9ONJIouu0WAQ28mDOFvYmx9cWCK8pIFcTlccdnUGCe3SR_28Rpzgib7nIAy8WWOTQz6KnLxgjCc6eCoVp89k6aA5ik05spMdEY2oKM3deW0iOxRlrGwDsyCBCnbvI6TmxN7RRy_vYnh1118XouX1y2nGfJ9hQL3YcKyg9eGYILjuIkl_W23qKrFXdN9r6GglO702MW8PFrH6F-VvkZNqD-suY8XNU4B_-4NTi5N9s_HXNW2wj-WLU5aEkvy7GZhTMc6Oki_4bVSVK5bKG_bbvlmlZ3YSNykE16ifhMDsEO98BG4kU54jJPgbgQgoDcbuDe0adkEtWGIHbMk_ShKqzH9LgveejKiVLu5_iaYZtFyotqQIDlhL7v0IjBkUImJSih3EUdSoJLFAnSBr4</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -87,11 +87,11 @@
       <matchCondition>equals</matchCondition>
       <name>player-id</name>
       <type>Main</type>
-      <value>e6cb7c38-47f4-46ec-aeab-7468f3a084b2</value>
+      <value>b56f57a2-6fc8-4fe8-b7c7-de4179ee2074</value>
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dev-api.ucf88.com/api/submitBet?=</restUrl>
+   <restUrl>http://staging-api.ucf88.com/api/submitBet</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

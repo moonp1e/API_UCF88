@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_backoffice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67a4d9a4-f254-457c-8fb2-1b6b3b055a0c</testCaseGuid>
+</TestCaseEntity>

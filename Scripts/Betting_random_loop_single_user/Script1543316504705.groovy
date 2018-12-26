@@ -13,35 +13,35 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-for (loop = 1; loop <= 1000; loop++) {
-    response = WS.sendRequest(findTestObject('betting_meron'))
+for (loop = 1; loop <= 500; loop++) {
+    response1 = WS.sendRequest(findTestObject('betting_meron'))
 
     WebUI.delay(2)
 
-    WS.verifyResponseStatusCode(response, 200)
+    WS.verifyResponseStatusCode(response1, 200)
 
-    response = WS.sendRequest(findTestObject('betting_wala'))
-
-    WebUI.delay(2)
-
-    WS.verifyResponseStatusCode(response, 200)
+    response2 = WS.sendRequest(findTestObject('betting_wala'))
 
     WebUI.delay(2)
 
-    response = WS.sendRequest(findTestObject('betting_draw'))
+    WS.verifyResponseStatusCode(response2, 200)
 
     WebUI.delay(2)
 
-    WS.verifyResponseStatusCode(response, 200)
-
-    response = WS.sendRequest(findTestObject('betting_ftd'))
+    response3 = WS.sendRequest(findTestObject('betting_draw'))
 
     WebUI.delay(2)
 
-    WS.verifyResponseStatusCode(response, 200)
+    WS.verifyResponseStatusCode(response3, 200)
+
+    response4 = WS.sendRequest(findTestObject('betting_ftd'))
 
     WebUI.delay(2)
 
-    WS.verifyElementPropertyValue(response, 'results.status', 1)
+    WS.verifyResponseStatusCode(response4, 200)
+
+    WebUI.delay(2)
+
+    WS.verifyElementPropertyValue(response4, 'results.status', 1)
 }
 
